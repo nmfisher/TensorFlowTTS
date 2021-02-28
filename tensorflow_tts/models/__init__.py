@@ -1,5 +1,6 @@
 from tensorflow_tts.models.fastspeech import TFFastSpeech
 from tensorflow_tts.models.fastspeech2 import TFFastSpeech2
+from tensorflow_tts.models.lightspeech import TFLightSpeech
 from tensorflow_tts.models.melgan import (
     TFMelGANDiscriminator,
     TFMelGANGenerator,
